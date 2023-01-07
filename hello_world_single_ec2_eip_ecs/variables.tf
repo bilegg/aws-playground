@@ -29,7 +29,7 @@ variable "container" {
 		"port" = 80
 		"memory" = 512
 		"cpu" = 2
-		"count" = 2
+		"count" = 1
 	}
 }
 
