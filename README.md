@@ -1,1 +1,1 @@
-# my_aws_playground
+# AWS playground
